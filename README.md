@@ -65,7 +65,7 @@ then run 'npm run start' to invoke the online store backend.
 
 the walkthrough video is below:
 
-[![Video Thumbnail](./Assets/APIscreenshot.png)](https://drive.google.com/file/d/1gfFAEWYA9bcTTQLpF_EbxCk9IaThEJYV)
+[![Video Thumbnail](./Assets/APIscreenshot.png)](https://drive.google.com/file/d/1ROyUaJ3hP6wJRt5OywooCP3SBexx2dLT)
 
 
 ## Features
@@ -118,8 +118,7 @@ Reaction:
 ```md
 Link to Walkthrough Video:
 
-
-
+https://drive.google.com/file/d/1ROyUaJ3hP6wJRt5OywooCP3SBexx2dLT
 
 Link to GitHub repo:
 
